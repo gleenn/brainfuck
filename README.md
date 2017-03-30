@@ -1,6 +1,6 @@
 # brainfuck
 
-Clojure implementataion of the (Brainfuck)[https://en.wikipedia.org/wiki/Brainfuck] programming language.
+Clojure implementataion of the [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) programming language.
 
 Copyright © 2017
 
